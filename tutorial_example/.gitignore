@@ -1,0 +1,7 @@
+add_person_cpp
+addressbook.pb.cc
+addressbook.pb.h
+addressbook_pb2.py
+com/
+list_people_cpp
+protoc_middleman
